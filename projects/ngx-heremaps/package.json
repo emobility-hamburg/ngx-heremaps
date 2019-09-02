@@ -1,0 +1,28 @@
+{
+  "name": "@stromnetz-hamburg/ngx-heremaps",
+  "version": "1.0.0",
+  "description": "Reactive heremaps library loader for Angular",
+  "keywords": [
+    "angular",
+    "heremaps",
+    "here maps",
+    "here-maps",
+    "HERE",
+    "map",
+    "maps",
+    "typescript"
+  ],
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stromnetz-hamburg/ngx-heremaps.git"
+  },
+  "author": {
+    "name": "CUBI TECH Inh. Paul  Keller",
+    "email": "Paul.Keller@cubi-tech.de"
+  },
+  "peerDependencies": {
+    "@angular/common": "^8.0.0",
+    "@angular/core": "^8.0.0"
+  }
+}
